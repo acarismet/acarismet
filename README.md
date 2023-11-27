@@ -22,4 +22,13 @@
 Technologies I've Learned and Using Currently:
 
 [![html](https://github.com/acarismet/acarismet/assets/92929366/0c5222e6-8cbc-4467-b5af-56d8251edde4)
-](https://developer.mozilla.org/en-US/docs/Web/HTML) [![css (1)](https://github.com/acarismet/acarsimet/assets/92929366/92549068-c08d-45a0-8cdd-a8b1bf35542e)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![javascript (1)](https://github.com/acarismet/acarsimet/assets/92929366/9a6e08a8-ffd9-41c3-a4be-c736ac8e5708)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![react](https://github.com/acarismet/acarsimet/assets/92929366/687f8a65-c537-469d-b3b8-2389b163373c)](https://react.dev/learn) [![git](https://github.com/acarismet/acarsimet/assets/92929366/71955f68-8f9e-4660-9113-a099b9c2b4fb)](https://git-scm.com) [![vscode_64-01](https://github.com/acarismet/acarsimet/assets/92929366/87e02c22-5d51-409b-b4f5-744656dce080)](https://code.visualstudio.com) [![bootstrap](https://github.com/acarismet/acarsimet/assets/92929366/f721b694-c60a-4c1d-88c9-423cf7803011)](https://getbootstrap.com) [![tailwind_64-01](https://github.com/acarismet/acarsimet/assets/92929366/f07a9a1e-826c-4910-85f0-e2e710d23869)](https://tailwindui.com/?ref=top) [![figma](https://github.com/acarismet/acarsimet/assets/92929366/15861594-75a4-4b32-bbf0-4471c6adba88)](https://www.figma.com) [![illustrator](https://github.com/acarismet/acarsimet/assets/92929366/928bdade-ea11-4259-a787-1948ca130829)](https://www.adobe.com/products/illustrator.html)
+](https://developer.mozilla.org/en-US/docs/Web/HTML) [![css (1)](https://github.com/acarismet/acarismet/assets/92929366/2faa7113-3312-4d3e-b81e-ba2e3bae7f6c)
+](https://developer.mozilla.org/en-US/docs/Web/CSS) [![javascript (1)](https://github.com/acarismet/acarismet/assets/92929366/c1aff0fc-e9bc-42b3-bdcb-26b477cd9ce1)
+](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![react](https://github.com/acarismet/acarismet/assets/92929366/19277288-9599-4e06-bb49-9a350abfb5ef)
+](https://react.dev/learn) [![git](https://github.com/acarismet/acarismet/assets/92929366/2259d482-dcc3-4bf2-9d93-5d22fe87a84a)
+](https://git-scm.com) [![vscode_64-01](https://github.com/acarismet/acarismet/assets/92929366/d4bb67cb-cecf-4dec-a484-4de3ecaa0bc4)
+](https://code.visualstudio.com) [![bootstrap](https://github.com/acarismet/acarismet/assets/92929366/524ccaf3-937e-437a-af1e-eca65485381c)
+](https://getbootstrap.com) [![tailwind_64-01](https://github.com/acarismet/acarismet/assets/92929366/8f47adf8-05d5-4ecd-9608-71510dcb87e0)
+](https://tailwindui.com/?ref=top) [![figma](https://github.com/acarismet/acarismet/assets/92929366/3369d46d-751c-404d-85b5-fe67e0ea3457)
+](https://www.figma.com) [![illustrator](https://github.com/acarismet/acarismet/assets/92929366/d8237aa5-7fb9-4ee5-89b3-fdbbdb1760bd)
+](https://www.adobe.com/products/illustrator.html)
