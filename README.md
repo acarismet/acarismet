@@ -4,20 +4,7 @@
 
 :computer: Currently working on React&Tailwind project **[IUVA](https://github.com/chiturca/iuva)** which is going to serve for social utility. It's going to save lives. I have to thank my friend @**[chiturca](https://github.com/chiturca)** accepting this idea and handle to organize tasks delicately.
 
-:dart: Graduated from **[Codecademy](https://www.codecademy.com)** Front-End Engineering Path but one source is never enough to be up on. So I'm still learning and mastering.
-
-:black_nib: Originally **[Faculty of Communication](http://www.ilef.ankara.edu.tr/en/mainpage/)**/ :movie_camera: Radio Tv and Cinema Graduate and these are some skills I have under media category:
-
-- :radio: Radio Broadcasting in Turkish Radio Television(TRT),
-- :microphone: Commercial Voiceover,
-- :tophat: Master of Ceremonies,
-- :minidisc: Sound Recording and Editing,
-- :radio::tv: Radio and TV Broadcast Technician,
-- :camera: Photographing
-
-🤝 Social Responsibility Project Creator, Developer and Coordinator
-
-:musical_keyboard: Polyphonic choir member (Bass)
+:dart: Graduated from **[Codecademy](https://www.codecademy.com)** Front-End Engineering Path but one source is never enough to be up on. So I'm still learning new tools and mastering.
 
 Technologies I've Learned and Using Currently:
 
@@ -32,3 +19,16 @@ Technologies I've Learned and Using Currently:
 ](https://tailwindui.com/?ref=top) [![figma](https://github.com/acarismet/acarismet/assets/92929366/3369d46d-751c-404d-85b5-fe67e0ea3457)
 ](https://www.figma.com) [![illustrator](https://github.com/acarismet/acarismet/assets/92929366/d8237aa5-7fb9-4ee5-89b3-fdbbdb1760bd)
 ](https://www.adobe.com/products/illustrator.html)
+
+:black_nib: Originally **[Faculty of Communication](http://www.ilef.ankara.edu.tr/en/mainpage/)**/ :movie_camera: Radio Tv and Cinema Graduate and these are some skills I have under media category:
+
+- :radio: Radio Broadcasting in Turkish Radio Television(TRT),
+- :microphone: Commercial Voiceover,
+- :tophat: Master of Ceremonies,
+- :minidisc: Sound Recording and Editing,
+- :radio::tv: Radio and TV Broadcast Technician,
+- :camera: Photographing
+
+🤝 Social Responsibility Project Creator, Developer and Coordinator
+
+:musical_keyboard: Polyphonic choir member (Bass)
