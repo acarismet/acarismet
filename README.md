@@ -27,8 +27,8 @@ Technologies I've Learned and Using Currently:
 <details>
 <summary>Click For My Background, Talents and Hobbies</summary>
 <br>
-:black_nib: Originally **[Faculty of Communication](http://www.ilef.ankara.edu.tr/en/mainpage/)**  Radio Tv and Cinema Graduate with the following media skills:
-
+  
+ ✒️ Originally [Faculty of Communication Radio Tv and Cinema Graduate from Ankara University](http://www.ilef.ankara.edu.tr/en/mainpage/) with the following media skills:
 - :radio: Radio Broadcasting in Turkish Radio Television(TRT),
 - :microphone: Commercial Voiceover,
 - :tophat: Master of Ceremonies,
