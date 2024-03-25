@@ -22,10 +22,11 @@ Technologies I've Learned and Using Currently:
 ](https://www.figma.com) [![illustrator](https://github.com/acarismet/acarismet/assets/92929366/d8237aa5-7fb9-4ee5-89b3-fdbbdb1760bd)
 ](https://www.adobe.com/products/illustrator.html)
 
-
+<br>
+<h3>What I've Done Before Software</h3>
 <details>
-<summary>Before Software</summary>
-
+<summary>Click For My Background, Talents and Hobbies</summary>
+<br>
 :black_nib: Originally **[Faculty of Communication](http://www.ilef.ankara.edu.tr/en/mainpage/)**  Radio Tv and Cinema Graduate with the following media skills:
 
 - :radio: Radio Broadcasting in Turkish Radio Television(TRT),
