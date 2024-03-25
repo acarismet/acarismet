@@ -2,7 +2,7 @@
 
 :seedling: A self-taught developer who seeks best ways to create. When I worked as a sound technician, learning what was going on behind the scenes of programs that were causing problems and solving them encouraged me to learn behind the scenes. So I embarked on a software path, starting by learning Python. Simultaneously, I completed a course in Mathematics for Data Science at Duke University, based on the fact that programming is not just about language. I learned the language and tools necessary for Front-End Development, a recommended start for self-learners. The basic logic of programming, the basics of coding were complete. Controlling the details from my former professional life and automating the controls in a way that minimizes the human factor was a reflex that was always on my mind while learning software. It was during my industry research that I discovered that Software Testing and Quality Specialization would suit me. Now, on this path that I found by searching step by step, I am moving forward both to be a sought-after name and to create values that I will always remember.
 
-:computer: Currently I'm Software Testing and Quailty Specializaiton attendee at [TOBETO](https://tobeto.com)
+:computer: Currently I'm Software Testing and Quailty Specializaton attendee at [TOBETO](https://tobeto.com)
 
 :computer: Besides QA path, working on React&Tailwind project **[IUVA](https://github.com/chiturca/iuva)** which is going to serve for social utility. It's going to save lives. I have to thank my friend @**[chiturca](https://github.com/chiturca)** accepting this idea and handle to organize tasks delicately.
 
