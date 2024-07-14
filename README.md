@@ -8,6 +8,8 @@
 ![Static Badge](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=%23e44d25) ![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=%23264bdc) ![Static Badge](https://img.shields.io/badge/TAILWIND_CSS-white?style=for-the-badge&logo=tailwindcss&logoColor=%2338bdf7) ![Static Badge](https://img.shields.io/badge/BOOTSTRAP-white?style=for-the-badge&logo=bootstrap&logoColor=%237d11f8) ![Static Badge](https://img.shields.io/badge/REACT-white?style=for-the-badge&logo=react&logoColor=%2361dafb)
 ![Static Badge](https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=figma&logoColor=white) ![Static Badge](https://img.shields.io/badge/Adobe_Illustrator-black?style=for-the-badge&logo=adobeillustrator)
 
+![Static Badge](https://img.shields.io/badge/Linkedin-%230474b3?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismet-acar-software%2F) ![](https://komarev.com/ghpvc/?username=acarismet&style=for-the-badge)
+
 :dart: Graduated as Software Testing and Quailty Specialist from [İstanbul Kodluyor Project](https://istanbulkodluyor.com/istanbul-kodluyor) executed by [TOBETO](https://tobeto.com)
 
 - After the training, which was completed with weekly tasks and lessons, we completed a final project consisting of manual test writing, manual test execution, interface and api automation. You can check [this organization](https://github.com/Test-3A-Pair-6) of our team for the automation details of the project.
