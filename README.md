@@ -1,6 +1,6 @@
 # Welcome! I'm Ismet Acar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=465&lines=Software+Testing+and+Quality+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=465&lines=Software+Test+Engineer;Software+Testing+and+Quality+Specialist)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=%233776ab) ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) ![Static Badge](https://img.shields.io/badge/JAVA-%235382a1?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/C_SHARP-%239b4993?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/SELENIUM-white?style=for-the-badge&logo=selenium) ![Static Badge](https://img.shields.io/badge/JIRA_XRAY-white?style=for-the-badge&logo=jirasoftware&logoColor=blue) ![Static Badge](https://img.shields.io/badge/PYTEST-blue?style=for-the-badge&logo=pytest&logoColor=white) ![Static Badge](https://img.shields.io/badge/POSTGRESQL-white?style=for-the-badge&logo=postgresql)
