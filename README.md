@@ -11,6 +11,10 @@
 
 ![Static Badge](https://img.shields.io/badge/Linkedin-%230474b3?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismet-acar-software%2F) ![](https://komarev.com/ghpvc/?username=acarismet&style=for-the-badge)
 
+:climbing: Currently working as Software Testing and Quailty Specialist in an international IT company.
+
+<hr>
+
 :dart: Graduated as Software Testing and Quailty Specialist from [İstanbul Kodluyor Project](https://istanbulkodluyor.com/istanbul-kodluyor) executed by [TOBETO](https://tobeto.com)
 
 - After the training, which was completed with weekly tasks and lessons, we completed a final project consisting of manual test writing, manual test execution, interface and api automation. You can check [this organization](https://github.com/Test-3A-Pair-6) of our team for the automation details of the project.
